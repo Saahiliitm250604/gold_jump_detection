@@ -1,0 +1,27 @@
+{
+  "n_rows": 988584,
+  "n_days": 727,
+  "date_range": [
+    "2021-12-30 07:00:00",
+    "2024-12-30 22:54:00"
+  ],
+  "best_f1_config": {
+    "k": 3,
+    "threshold": 3.0,
+    "f1": 0.057056097171168295,
+    "precision": 0.03946495688702189,
+    "recall": 0.10294117647058823
+  },
+  "best_auc_config": {
+    "k": 3,
+    "threshold": 3.0,
+    "roc_auc": 0.7180410064519103
+  },
+  "jump_direction": {
+    "up": 767,
+    "down": 736
+  },
+  "ml_n_rows": 988574,
+  "ml_positive_rate": 0.09999959537677504,
+  "ml_positive_rate_given_jump": 0.9640718562874252
+}
